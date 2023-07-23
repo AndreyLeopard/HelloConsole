@@ -14,7 +14,7 @@ int a2 = 12;
 int b2 = 23;
 int c2 = 33;
 int a3 = 13;
-int b3 = 123;
+int b3 = 53;
 int c3 = 33;
 
 /* int max1 = Max(a1, b1, c1);
